@@ -25,5 +25,6 @@ Links and Screen shots :
 
 -Github Pages URL : https://bdbevan.github.io/Profile_Challenge_Module_02/
 
--![image](https://github.com/BDBevan/Profile_Challenge_Module_02/assets/47439436/56b52c82-ccb3-48d4-b6e3-84b636449611)
+- Screenshot
+![image](https://github.com/BDBevan/Profile_Challenge_Module_02/assets/47439436/56b52c82-ccb3-48d4-b6e3-84b636449611)
 
