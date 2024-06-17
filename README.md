@@ -1,4 +1,4 @@
-Professional Profile Website 
+Professional Profile Website. 
 
 The following Semantic Elements have been added to the intial professional profile page : 
 
@@ -11,7 +11,7 @@ Semantic elements :
 - Sections * 3
 - A footer element 
 
-Imagery requirements : 
+Imagery requirements: 
 - Alt attributes have been added to all 6 images within the sections container.
 
 Navigation items requirements:
@@ -19,5 +19,4 @@ Navigation items requirements:
 - Please note that the Href URL's for each of the image tiles are duplicated intentionally as I currently don't have a portfolio to showcase  
 
 CSS responsiveness requirements:
-
-
+- Added page responsivness to cater for device / screen resolutions of 980px & 768px
