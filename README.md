@@ -15,8 +15,8 @@ Imagery requirements:
 - Alt attributes have been added to all 6 images within the sections container.
 
 Navigation items requirements:
-- There are page navigation items (About me, Projects, Work, Contact), and each, when clicked, link to their corresponding sections within the page.
-- Please note that the Href URL's for each of the image tiles are duplicated intentionally as I currently don't have a portfolio to showcase  
+- There are page 4 navigation items (About me, Projects, Work, Contact), and each, when clicked, link to their corresponding sections within the page.
+- Please note that the Href URL's for each of the image tiles are duplicated intentionally as I currently don't have a portfolio to showcase.
 
 CSS responsiveness requirements:
 - Added page responsivness to cater for device / screen resolutions of 980px & 768px
